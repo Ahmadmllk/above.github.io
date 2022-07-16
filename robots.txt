@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /database/
+Disallow: /scripts/
+
+Sitemap: https://www.abovecreation.tn/sitemap.xml
